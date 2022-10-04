@@ -1,16 +1,18 @@
-### Hi there 👋
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
-<!--
-**BSteffaniak/BSteffaniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<p align="left">
+  <a href="https://flatlang.org">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=BSteffaniak&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=BSteffaniak&theme=radical&hide_border=true">		  
+  </a>
+</p>
+<br>
 
-Here are some ideas to get you started:
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=BSteffaniak&custom_title=Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://flatlang.org)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="http://flatlang.org">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSteffaniak&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  </a>
+</p>
